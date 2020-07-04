@@ -26,4 +26,12 @@ Condicionales y loops
       - Break control statement
       - Continue statement
       - Pass statement
- 
+### SESION 2
+- Funciones
+- Manejo de Excepciones
+### SESION 3
+- Estructuras de Datos
+- Listas
+  - Tuplas
+  - Sets
+  - Diccionarios
