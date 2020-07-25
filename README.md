@@ -1,5 +1,5 @@
 # Pyladies-La-Paz
-### Sesion 1
+### SESION 1
 
 Introducción a Python
   - Instalación
@@ -35,3 +35,15 @@ Condicionales y loops
   - Tuplas
   - Sets
   - Diccionarios
+  
+### SESION 4
+- Programación Orientada a Objetos (POO)
+    - Definir una clase
+    - Instanciar un objeto
+    - Atributos y métodos
+    - Herencia
+- Métodos de strings y números
+
+### SESION 5
+- Manejo de archivos y paquetes
+- Introducción a Numpy y Pandas
